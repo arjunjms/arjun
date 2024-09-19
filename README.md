@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+JMS+S+T+O+R+E" />
 </p>
-
+####
+https://imgur.com/a/NXrESF8
 ### INSTALL SCRIPT 
 ```
 HUBUNGI ADMIN
