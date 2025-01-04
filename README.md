@@ -10,7 +10,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ## UPDATE SCRIPT
 ```
-HUBUNGI ADMIN
+wget -q https://raw.githubusercontent.com/arjunjms/arjun/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ### WORK DI OS
